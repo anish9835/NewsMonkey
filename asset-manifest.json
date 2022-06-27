@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b7d9a02.css",
+    "main.js": "/static/js/main.c68d03b3.js",
+    "static/media/FadingLines.gif": "/static/media/FadingLines.72e5fa5c981ec0b7b37b.gif",
+    "index.html": "/index.html",
+    "main.4b7d9a02.css.map": "/static/css/main.4b7d9a02.css.map",
+    "main.c68d03b3.js.map": "/static/js/main.c68d03b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7d9a02.css",
+    "static/js/main.c68d03b3.js"
+  ]
+}
